@@ -42,14 +42,19 @@ Stop with: CTRL + C
 MEMORY STATUS
 
 Total RAM:           32000 MB
+
 Used RAM:            18450 MB
+
 Free RAM:            2100 MB
+
 Available RAM:       11800 MB
 
 SWAP
 
 Total Swap:          4096 MB
+
 Used Swap:           512 MB
+
 Free Swap:           3584 MB
 
 ## Author
